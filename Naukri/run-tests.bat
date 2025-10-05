@@ -1,2 +1,2 @@
 cd Naukri
-mvn clean test -Dtest=testRunner.TestRunner -Dcucumber.filter.tags="@home_02"
+mvn clean verify -Dtest=testRunner.TestRunner -Dcucumber.filter.tags="@home_02"
