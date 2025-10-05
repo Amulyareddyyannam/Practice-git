@@ -1,2 +1,2 @@
-@echo off
+cd Naukri
 mvn clean test -Dtest=testRunner.TestRunner -Dcucumber.filter.tags="@home_02"
