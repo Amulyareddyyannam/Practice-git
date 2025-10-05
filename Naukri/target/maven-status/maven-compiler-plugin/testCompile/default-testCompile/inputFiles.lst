@@ -1,8 +1,8 @@
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\factory\Base.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\pageObjects\LoginPageObj.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\stepDefinitions\ProfileStepDef.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\testRunner\TestRunner.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\pageObjects\BaseClass.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\pageObjects\ProfilePageObj.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\stepDefinitions\LoginStepDef.java
-G:\Testing\Learnings\Eclipse\NaukriApp\src\test\java\hooks\Hooks.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\testRunner\TestRunner.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\pageObjects\BaseClass.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\pageObjects\ProfilePageObj.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\stepDefinitions\LoginStepDef.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\factory\Base.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\pageObjects\LoginPageObj.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\stepDefinitions\ProfileStepDef.java
+C:\Users\hanum\eclipse-workspace1\NaukriAutomation\SwatzNaukriApp_Automation\Naukri\src\test\java\hooks\Hooks.java

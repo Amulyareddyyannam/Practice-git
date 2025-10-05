@@ -39,7 +39,8 @@ public class Hooks {
 	 if(scenario.isFailed())
 	 {
 		 byte[] screenshot=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-		 Allure.addAttachment("Failure Screenshot", new ByteArrayInputStream(screenshot));
+		 scenario.attach(screenshot, "image/png", "Failure Screenshot");
+		 //Allure.addAttachment("Failure Screenshot", new ByteArrayInputStream(screenshot));
 	 }
 	 driver.quit();
 	}

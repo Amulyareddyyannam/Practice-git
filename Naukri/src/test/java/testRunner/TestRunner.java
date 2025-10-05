@@ -8,10 +8,10 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/test/java/features/profile.feature",
 				  glue={"stepDefinitions","hooks"},
-				  plugin= {"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
-				  dryRun=true,
-				  tags="@home",
-				  publish=true
+				  plugin= {"pretty","json:target/cucumber.json"},
+				  dryRun=false,
+				  tags="@home_02"
+				  //publish=true
 				  )
 public class TestRunner {
 
